@@ -40,8 +40,8 @@ https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-D
 http://syarman.hexat.com/INDONESIA%20HD/Inews.m3u8
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/VQRrBtd/20200225-090424.png",METRO TV (vision+)
 http://syarman.hexat.com/INDONESIA%20HD/metrotv.m3u8
-#EXTINF:-1 group-title="(ott) INDONESIA HD" tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png",NET TV HD
-https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png",NET TV HD
+https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png",NetTV HD
 http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/3mbCw3Q/20200225-090600.png",CNN Indonesia HD
