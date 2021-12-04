@@ -77,116 +77,97 @@ http://nonton.wap.sh/id/015.m3u8
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/68_144.png",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#EXTINF:-1,Champion 1
-http://topwin-tv.my.id/2/master.m3u8?id=champion1
-#EXTINF:-1,Champion 2
-http://topwin-tv.my.id/2/master.m3u8?id=champion2
-#EXTINF:-1,Champion 3
-http://topwin-tv.my.id/2/master.m3u8?id=champion3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://sporter.com.hr/images/tv-station-cro-arena-sport-2-315.png",ARENA SPORTS 2
-http://93.157.62.180/ArenaSport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",ARHAT SPORT TV
-http://arhat.tv/public/360p/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",ATGV 1 SPORT
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png",beIN Sport 2
-https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",Bek Sports West
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport1_de.png",CCTV 5
-http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png",CCTV 5+
-http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/J0ngQJZ9/Champion-3.png",Champions TV 3
-http://syarman.hexat.com/vid/champion3.m3u8
-#EXTINF:-1 group-title="SPORTS",Cuatro HD
-http://91.126.141.13:1935/live/51/1800-def.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/sQY7Vmp/dd.jpg",DD SPORT
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",Dubai SPORT
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="SPORTS",DubaiSport5
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/xL0ryRc/canal.jpg",Extremadura TV
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://dusktill.masuk.web.id/img/fightsport.png",Fight Sports
-https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",FightBox HD
-http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/xYQ8LPp/1.png",Football 1
-https://95-213-224-179.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/XJNd01q/2.png",Football 2
-https://95-213-224-179.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/PG8nLYP/3.png",Football 3
-https://95-213-224-179.livesports24.online/football3ua.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303",IMPACT! Wrestling (1080p)
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/uaJQZrv.png",LookSport
-https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/uJzkQGv.png",LookSport 2
-https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/IBJEjG0.png",LookSport 3
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/yPWvZLq.png",LookSport Plus
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",maroc SPORT
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png",MavTV
-https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://dusktill.masuk.web.id/img/mncsports.png",MNC Sports
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/iFNScQ6.png",Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",SERI A ITALIA
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/t41mNCPF/SETANTA-SPORTS.png",SETANTA 1
-http://iptv.prosto.tv:7000/ch106/video.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png",Sky Sport 2
-http://93.152.174.144:4000/play/skysports2/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png",Sky sport 3
-http://93.152.174.144:4000/play/skysports3/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png",Sky Sport 4
-http://93.152.174.144:4000/play/skysports4/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png",Sky Sport 5
-http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png",Sky Sport F1
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png",Sky Sport News
-http://93.152.174.144:4000/play/skysportsnews/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://dusktill.masuk.web.id/img/soccerchannel.png",Soccer Channel
-https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",Sport 7
-https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_360p/index.m3u8
-#EXTINF:-1 group-title="SPORTS",TVC Sport
-http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISportHD.png",TVRI-SPORT
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",UFC 2
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",ufc 3
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png",UFC FIGHT 2
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pJhm2bQ/via.jpg",VIASAT SPORT
-http://persik.tv/stream/3602/287583/10249.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="" group-title="SPORTS" tvg-logo="",Bein Sport 1 FR
+http://93.152.174.144:4000/play/bein1fr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="" group-title="SPORTS" tvg-logo="",,BEIN SPORT 1 HD USA
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/7118?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="" group-title="SPORTS" tvg-logo="",Bein Sport 4 ar
+http://93.152.174.144:4000/play/bein4ar/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEiN SPORT HABER HD
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15998?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEIN SPORTS 1 HD
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16004?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Bein Sports 2 FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Bein Sports 3 AR
+http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Bein Sports 3 FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEIN SPORTS 3 HD
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16002?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",beIN SPORTS 4
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16213.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEIN SPORTS 4 HD
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16001?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",beIN SPORTS 5
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16211.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Bein Sports 5 AR
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",beIN SPORTS 6
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16210.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",beIN SPORTS 7
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16209.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Bein Sports 7 AR
+http://93.152.174.144:4000/play/bein7/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",beIN SPORTS 8
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16208.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",beIN Sports Canada
+http://linea.cc:8000/test123/test123/56359.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",beIN Sports Canada
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16216.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Bein Sports LaLiga TV HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/482.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEIN SPORTS MAX 1 HD
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16000?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEIN SPORTS MAX 2 HD
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15999?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Bein Sports Xtra HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/13372.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEINSPORT 1 HD
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15965?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEINSPORT 1 HD (1080P)
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15964?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEINSPORT 1 HD (480P)
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15966?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEINSPORT 1 HD (50FPS 1080P)
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15963?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEINSPORT 1 MAX
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15951?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEINSPORT 1 MAX 720P
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15953?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEINSPORT 1 MAX HD
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15952?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEINSPORT 2 HD
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15960?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEINSPORT 2 HD 1080P
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15959?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEINSPORT 2 HD 720P
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15961?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEINSPORT 2 MAX 720P
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15950?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEINSPORT 2 MAX HD(DIGIPLAY)
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15949?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEINSPORT 3 HD 1080P
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15956?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEINSPORT 4 HD 1080P
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15954?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEINSPORT 4 HD(DIGIPLAY)
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15955?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEINSPORT HABER
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15947?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEINSPORT Haber 4K (3840x2160)
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15962?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEINSPORTAR
+http://93.152.174.144:4000/play/BEINSPORTAR/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="Kids" tvg-logo="http://static.epg.best/sa/NickJr.sa.png",Nick Jr.
-https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16027?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Kids" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png",Nickelodeon HD
-http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="http://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",Pluto TV Nick
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&coppa=1
-#EXTINF:-1 group-title="Kids" tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png",Pluto TV Nick
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Kids" tvg-logo="http://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",Pluto TV Nick
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede448d3d50590007a4419e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Kids" tvg-logo="http://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",Pluto TV Nick HD
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Kids" tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png",Pluto TV Nick Jr.
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede45451dce190007ef9ff2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=d1d4cf70-0714-11eb-a59f-0242ac110002&deviceId=5ede45451dce190007ef9ff2&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-#EXTINF:-1 group-title="Kids" tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png",Pluto TV Nick Jr.
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede45451dce190007ef9ff2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16028?checkedby:iptvcat.com
+nel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="Kids" tvg-logo="",CARTOON NETWORK HD
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16072?checkedby:iptvcat.com
 //////HBO//////
 #EXTINF:-1 group-title="HBO MOVIES GRUP" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/1478502286_redbyhbo-nov-artcard.jpg",Red By HBO
 https://www.dropbox.com/s/5m51wh4uu09vu7x/20211127-2_720p.mp4?dl=1
