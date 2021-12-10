@@ -1,25 +1,4 @@
-#EXTM3U url-tvg="https://link.zozotv.xyz/epgtvku.xml"
-#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz" 
-#EXTM3U url-tvg="https://epg.kampung.xyz/" 
-#EXTM3U url-tvg="http://epg.urfan.web.id" 
-#EXTM3U url-tvg="https://github.com/apollo2000/TVGuide/raw/master/utc.xml.gz"
-#EXTM3U url-tvg="https://i.mjh.nz/nz/epg.xml" 
-#EXTM3U url-tvg="https://epg.kampung.xyz/IPTV.xml.gz"
-#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/main/astro.xml"
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml"
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-#EXTM3U url-tvg="http://tvku.live:8888/xmltv.php?username=epg&password=epg" 
-#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"
-#EXTM3U url-tvg="http://epg.greatiptv.cc/iptv.xml.gz"
-#EXITM3U url-tvg="http://onetv.click/schedule/epg.xml" 
-http://i.mjh.nz/nzau/epg.xml.gz
-url-tvg="http://keereeboon.streaming-fast.com/TIVIMATE/guide.xml
-https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml
-https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml
-https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" 
-#EXTM3U url-tvg="https://bit.ly/aqfadtvepg"
+#EXTM3U
 
 /////INDONESIA HD////
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png",RCTI (vision+)
