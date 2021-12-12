@@ -21,8 +21,10 @@ https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml
 https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" 
 #EXTM3U url-tvg="https://bit.ly/aqfadtvepg"
 /////INDONESIA HD////
-#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png",RCTI (vision+)
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png",RCTI
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png",RCTI (vision+)
+http://syarman.hexat.com/INDONESIA%20HD/rcti.m3u8
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png",MNC TV (vision+)
 http://syarman.hexat.com/INDONESIA%20HD/mnctv.m3u8
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png",MNC TV
@@ -52,7 +54,7 @@ http://syarman.hexat.com/INDONESIA%20HD/metrotv.m3u8
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png",NetTV HD
 https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png",Net TV HD
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f00fb3069a97a8fb9df1d75e6456ecef11
+http://210.210.155.35/session/ca684bb4-4f71-11ec-a3d7-b3009c1b6397/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/7G18TQf/sv.png",TRANS TV HD
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/7G18TQf/sv.png",TransTV
