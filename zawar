@@ -25,16 +25,18 @@ https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml"
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png",MNC TV (vision+)
 http://syarman.hexat.com/INDONESIA%20HD/mnctv.m3u8
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png",MNC TV
+https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png",MNC tv
 https://iptv.mwafa.net/vidio/870/index.m3u8?token=1999
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png",ANTV HD (vision+)
-https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png",SCTV HD (vision+)
-https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
+http://210.210.155.35/session/152c231e-4f72-11ec-84c2-829082668805/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png",SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png",INDOSIAR (vision+)
-https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
+http://210.210.155.35/session/54044a08-4f72-11ec-a410-bc66a895f190/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png",Indosiar
 https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png",GTV (vision+)
