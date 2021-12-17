@@ -35,7 +35,8 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="Lokal",Trans 7 https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="Lokal",Trans 7 
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
@@ -116,10 +117,7 @@ https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazee
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://x1.cdn.broiptv.com/img/hbo.png" group-title="Movies", HBO 
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8 
-https://mediahomes.github.io/assets/hbogo/hbo.m3u8 
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8 
+http://www.goldentv.tech:25461/Perfecto/170721/24990
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
@@ -196,7 +194,7 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="Sports", beIN Sport 1 
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd 
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/MrBeIN1.mpd 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
@@ -208,11 +206,20 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/soccerchannel.png" group-title="Sports",Soccer Channel 
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesport_small.png?v=4.3" group-title="Sports", Usee Sport 1
-http://103.30.87.238:443/hometv/homelive/1376
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesports2_small.png?v=1.2" group-title="Sports", Usee Sports 2
-http://103.30.87.238:443/hometv/homelive/1377
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg" group-title="SPORTS", champ1=roll(dec=native)
+https://etus.link/champ1roll?shareext.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg" group-title="SPORTS", champ2=roll(dec=native)
+https://etus.link/champ2roll?shareext.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg" group-title="SPORTS", champ3=roll(dec=native)
+https://etus.link/champ3roll?shareext.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS", MNC SPORTS
+https://etus.link/izzatmncsport?shareext.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS", CHAMPIONTV1(b)
+http://www.daygun.online/Live/ru/v.m3u8?id=championstv1
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS", CHAMPIONTV2(b)
+http://www.daygun.online/Live/ru/v.m3u8?id=championstv2
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS", CHAMPIONTV3(b)
+http://www.daygun.online/Live/ru/v.m3u8?id=championstv3
 
 #EXTINF:-1 tvg-id="" tvg-name="Golfplus Channel" group-title="Sports" tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png", NBC Golf
 http://rr1.dens.tv/h/h10/01.m3u8
