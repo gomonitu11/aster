@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png",Net TV HD
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png",Net TV HD
 http://210.210.155.35/session/ca684bb4-4f71-11ec-a3d7-b3009c1b6397/qwr9ew/s/s08/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="NASIONAL", RCTI
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
