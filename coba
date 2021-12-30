@@ -1,43 +1,237 @@
-#EXTM3U 
-#EXTINF:-1,Unknown_1
-https://goldenlivektv.com/Live_TV/Channel_Sctv.m3u8
-#EXTINF:-1,Unknown_2
-http://210.210.155.35/session/ca684bb4-4f71-11ec-a3d7-b3009c1b6397/qwr9ew/s/s08/02.m3u8
-#EXTINF:-1,Unknown_3
-http://210.210.155.35/qwr9ew/s/s03/index1.m3u8
-#EXTINF:-1,Unknown_4
-http://210.210.155.35/qwr9ew/s/s04/index1.m3u8
-#EXTINF:-1,Unknown_5
-http://210.210.155.35/qwr9ew/s/s05/index1.m3u8
-#EXTINF:-1,Unknown_6
-http://210.210.155.35/qwr9ew/s/s06/index1.m3u8
-#EXTINF:-1,Unknown_7
-http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-#EXTINF:-1,Unknown_8
-http://210.210.155.35/qwr9ew/s/s08/index1.m3u8
-#EXTINF:-1,Unknown_9
-http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
-#EXTINF:-1,Unknown_10
-http://210.210.155.35/qwr9ew/s/s10/index1.m3u8
-#EXTINF:-1,Unknown_11
-http://210.210.155.35/qwr9ew/s/s11/index1.m3u8
-#EXTINF:-1,Unknown_12
-http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
-#EXTINF:-1,Unknown_13
-http://210.210.155.35/qwr9ew/s/s13/index1.m3u8
-#EXTINF:-1,Unknown_14
-http://210.210.155.35/qwr9ew/s/s14/index1.m3u8
-#EXTINF:-1,Unknown_15
-http://210.210.155.35/qwr9ew/s/s15/index1.m3u8
-#EXTINF:-1,Unknown_16
-http://210.210.155.35/qwr9ew/s/s16/index1.m3u8
-#EXTINF:-1,Unknown_17
-http://210.210.155.35/qwr9ew/s/s17/index1.m3u8
-#EXTINF:-1,Unknown_18
-http://210.210.155.35/qwr9ew/s/s18/index1.m3u8
-#EXTINF:-1,Unknown_19
-http://210.210.155.35/qwr9ew/s/s19/index1.m3u8
-#EXTINF:-1,Unknown_20
-http://210.210.155.35/qwr9ew/s/s20/index1.m3u8
-#EXTINF:-1,Unknown_21
-http://210.210.155.35/qwr9ew/s/s21/index1.m3u8
+#EXTM3U
+
+-------Vidio------
+
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Rcti
+https://iptv.mwafa.net/vidio/665/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  SCTV
+https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Gtv
+https://iptv.mwafa.net/vidio/778/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Kompastv
+https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Trans7
+https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  TransTV
+https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Rtv
+https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Daitv
+https://iptv.mwafa.net/vidio/6482/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  ntv
+https://iptv.mwafa.net/vidio/7432/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Jaktv
+https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Mytv
+https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Indosiar
+https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  O channel
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  TVRI
+https://iptv.mwafa.net/vidio/6441/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Ajwa tv
+https://iptv.mwafa.net/vidio/7464/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Alquran Kareem
+https://iptv.mwafa.net/vidio/6852/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Metro tv
+https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  MNC tv
+https://iptv.mwafa.net/vidio/870/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Jak tv
+https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Net
+https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  I news
+https://iptv.mwafa.net/vidio/5409/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  O shop
+https://iptv.mwafa.net/vidio/6166/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  DW
+https://iptv.mwafa.net/vidio/5075/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Tv edukasi
+https://iptv.mwafa.net/vidio/6838/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Rtv
+https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Berita satu
+https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Reformed21
+https://iptv.mwafa.net/vidio/6853/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  U Channel
+https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
+
+-------Usee-----
+
+#EXTINF:-1 tvg-logo="" group-title="Usee",NET
+http://iptvid.my.id/ch/net.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",ANTARA
+http://iptvid.my.id/ch/antara.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",INDOSIAR
+http://iptvid.my.id/ch/indosiar.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",SCTV
+http://iptvid.my.id/ch/sctv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",INEWS
+http://iptvid.my.id/ch/inews.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",BALI TV
+http://iptvid.my.id/ch/balitv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",RRI NET
+http://iptvid.my.id/ch/rrinet.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",KOMPAS TV
+http://iptvid.my.id/ch/kompas.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",RTV
+http://iptvid.my.id/ch/rtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",JTV
+http://iptvid.my.id/ch/jtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",DAAI TV
+http://iptvid.my.id/ch/daaitv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",NUSANTARA TV
+http://iptvid.my.id/ch/nusantara.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",TRANS TV
+http://iptvid.my.id/ch/transtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",TRANS 7
+http://iptvid.my.id/ch/trans7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee", SEA TODAY
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6faa8040da20ef399b63a72d0e4ab575dfdded94c48ea6229c48edefa9ec1c9f 
+#EXTINF:-1 tvg-logo="" group-title="Usee", METRO TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 tvg-logo="" group-title="Usee", TVRI
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c74d97b01eae257e44aa9d5bade97baf268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="" group-title="Usee", IDX
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1700002963a49da13542e0726b7bb758dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 tvg-logo="" group-title="Usee", DW
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=093f65e080a295f8076b1c5722a46aa2dfdded94c48ea6229c48edefa9ec1c9f 
+#EXTINF:-1 tvg-logo="" group-title="Usee", FRANCE 24
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=e4a6222cdb5b34375400904f03d8e6a5dfdded94c48ea6229c48edefa9ec1c9f 
+#EXTINF:-1 tvg-logo="" group-title="Usee", CCTV 4
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=b53b3a3d6ab90ce0268229151c9bde11f93fb3c9879684db94f7af38b446022a 
+#EXTINF:-1 tvg-logo="" group-title="Usee",INDONESIANA
+http://iptvid.my.id/ch/indonesiana.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",JAK TV
+http://iptvid.my.id/ch/jaktv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",DAAI
+http://iptvid.my.id/ch/daai.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",MY TV
+http://iptvid.my.id/ch/mytv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",ATV
+http://iptvid.my.id/ch/atv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",MYCA
+http://iptvid.my.id/ch/myca.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",MYFC
+http://iptvid.my.id/ch/myfc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",MYCN
+http://iptvid.my.id/ch/mycn.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",AXN
+http://iptvid.my.id/ch/axn.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",GLX
+http://iptvid.my.id/ch/glx.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",GLXPREM
+http://iptvid.my.id/ch/glxprem.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",HITS
+http://iptvid.my.id/ch/hits.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",HITS MOVIE
+http://iptvid.my.id/ch/hitsmovie.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",KIX
+http://iptvid.my.id/ch/kix.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",PARAMOUNT
+http://iptvid.my.id/ch/paramount.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",SONE
+http://iptvid.my.id/ch/sone.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",TVN
+http://iptvid.my.id/ch/tvn.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",TVN MOVIE
+http://iptvid.my.id/ch/tvnmovie.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",CHINESEDRM
+http://iptvid.my.id/ch/chinesedrm.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",WRNR
+http://iptvid.my.id/ch/wrnr.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",CNM WORLD
+http://iptvid.my.id/ch/cnmwrld.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",C EUROPE
+http://iptvid.my.id/ch/c_europe.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",C INDONESIA
+http://iptvid.my.id/ch/c_indonesia.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",CLSTL
+http://iptvid.my.id/ch/clstl.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",ZEEB
+http://iptvid.my.id/ch/zeeb.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",IMC
+http://iptvid.my.id/ch/imc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",FLIK
+http://iptvid.my.id/ch/flik.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",INSERT
+http://iptvid.my.id/ch/insert.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",DNLN
+http://iptvid.my.id/ch/dnln.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",BIOSID
+http://iptvid.my.id/ch/biosid.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",SGEM
+http://iptvid.my.id/ch/sgem.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",SFC
+http://iptvid.my.id/ch/afc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",ROCK
+http://iptvid.my.id/ch/rock.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",ROCKEXT
+http://iptvid.my.id/ch/rockext.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",KBSW
+http://iptvid.my.id/ch/kbsw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",KPLUS
+http://iptvid.my.id/ch/kplus.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",NHKW
+http://iptvid.my.id/ch/nhkw.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",TLC
+http://iptvid.my.id/ch/tlc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",FORMOSA
+http://iptvid.my.id/ch/formosa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",T STORM
+http://iptvid.my.id/ch/t_storm.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",KUNGFU TV
+http://iptvid.my.id/ch/kungfutv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",PRAMBORS
+http://iptvid.my.id/ch/prambors.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",MTV
+http://iptvid.my.id/ch/mtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",IKONSER
+http://iptvid.my.id/ch/ikonser.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",NATGEO
+http://iptvid.my.id/ch/natgeo.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",NGWILD
+http://iptvid.my.id/ch/ngwild.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",DSC
+http://iptvid.my.id/ch/dsc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",LINGUA
+http://iptvid.my.id/ch/lingua.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",PANDA TV
+http://iptvid.my.id/ch/pandatv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",HISTORY
+http://iptvid.my.id/ch/history.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",BLOOMBERG
+http://iptvid.my.id/ch/bloomberg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",OUTDOOR
+http://iptvid.my.id/ch/outdoor.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",ANIPLUS
+http://iptvid.my.id/ch/aniplus.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",ANIMAX
+http://iptvid.my.id/ch/animax.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",DAVINCI
+http://iptvid.my.id/ch/davinci.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",DUNIA ANAK
+http://iptvid.my.id/ch/duniaanak.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",HOREE
+http://iptvid.my.id/ch/horee.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",NICKJR
+http://iptvid.my.id/ch/nickjr.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",NICKELODEON
+http://iptvid.my.id/ch/nickelodeon.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",CN
+http://iptvid.my.id/ch/cn.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee",ALQURAN
+http://iptvid.my.id/ch/alquran.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee", HBO
+http://iptvid.my.id/movies/hbo.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee", HBO FAMILY
+http://iptvid.my.id/movies/hbo_fam.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee", HBO HITS
+http://iptvid.my.id/movies/hbo_hits.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee", HBO SIG
+http://iptvid.my.id/movies/hbo_sig.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Usee", CINEMX
+http://iptvid.my.id/movies/cinemax.m3u8
