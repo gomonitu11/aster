@@ -3,7 +3,7 @@
 https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png?v=2.0.0.13" group-title="LOCAL", TRANS TV
-http://202.80.222.179/000001/2/ch14041511552652254306/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title" group-title="LOCAL", INEWS
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
