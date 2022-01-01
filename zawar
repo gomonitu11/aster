@@ -13,8 +13,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="NASIONAL", SCTV (vision)
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
-#EXTINF: -1 tvg-id="ext" tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png" group-title="NASIONAL", TV One (vision)
-https://liveanevia.mncnow.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
+#EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="NASIONAL", inews (vision)
+https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="NASIONAL", Indosiar (vision)
 http://210.210.155.35/session/54044a08-4f72-11ec-a410-bc66a895f190/qwr9ew/s/s04/01.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="NASIONAL", Indosiar
