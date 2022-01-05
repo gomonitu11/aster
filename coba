@@ -1,39 +1,39 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_net_big1.png?v=2.0.0.13" group-title="LOCAL", NET
-https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Net.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png?v=2.0.0.13" group-title="LOCAL", TRANS TV
-http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_128000=9-mp4a_64000=2.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Transtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title" group-title="LOCAL", INEWS
-http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://goldenlivektv.com/Live_TV/Channel_Trans7.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-stEJUE6q-4Y/XbMzkvzx3wI/AAAAAAAAAtk/UnrCWgCowNEg_DOaG6Akf9aDcwcHyPAvgCLcBGAsYHQ/s320/20191026_003920.png" group-title="LOCAL", MNC TV
-http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="LOCAL", INDOSIAR 
-http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://goldenlivektv.com/Live_TV/Channel_Indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HO0bKm61gag/XbLtZYpFkVI/AAAAAAAAAtI/5cG_swWFmsQCd0JyWBI080A1zTis6N_hACLcBGAsYHQ/s1600/20191010_164600.png" group-title="LOCAL", RCTI
-http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HO0bKm61gag/XbLtZYpFkVI/AAAAAAAAAtI/5cG_swWFmsQCd0JyWBI080A1zTis6N_hACLcBGAsYHQ/s1600/20191010_164600.png" group-title="LOCAL", RCTI HD
-http://id2.indostreamingtv.com:80/live/tv66/index.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="LOCAL", SCTV 
-http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://goldenlivektv.com/Live_TV/Channel_Sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyWXD5DD/antv.png" group-title="LOCAL", ANTV 
-http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://goldenlivektv.com/Live_TV/Channel_Antv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOCAL", TRANS 7
-http://202.80.222.171/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://goldenlivektv.com/Live_TV/Channel_Rtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="LOCAL", GTV
-http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://goldenlivektv.com/Live_TV/Channel_Metrotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKv7J82B/tvone.png" group-title="LOCAL", TV ONE
-http://202.80.222.130/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://goldenlivektv.com/Live_TV/Channel_Tvone.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="LOCAL", METRO TV
 http://202.80.222.130/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
