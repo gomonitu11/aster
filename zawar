@@ -8,7 +8,7 @@ https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="NASIONAL", GTV (vision)
 https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6J9ZhPcm2bkBAxRHFFujiFjCDl0=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/25a886.png" group-title="NASIONAL", Trans7
-ttps://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
+https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wTm62e9G1jgoaj3KTkOGnwLVOIs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/709546.png" group-title="NASIONAL", TRANS TV
 https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="NASIONAL", SCTV (vision)
