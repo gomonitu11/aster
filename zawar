@@ -6,7 +6,7 @@ https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="NASIONAL", RCTI (vision)
 https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="NASIONAL", GTV (vision)
-https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
+https://livetv01.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6J9ZhPcm2bkBAxRHFFujiFjCDl0=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/25a886.png" group-title="NASIONAL", Trans7
 https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wTm62e9G1jgoaj3KTkOGnwLVOIs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/709546.png" group-title="NASIONAL", TRANS TV
@@ -14,13 +14,13 @@ https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="NASIONAL", SCTV (vision)
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="NASIONAL", inews (vision)
-https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
+https://livetv01.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="NASIONAL", Indosiar (vision)
 http://210.210.155.35/session/54044a08-4f72-11ec-a410-bc66a895f190/qwr9ew/s/s04/01.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="NASIONAL", Indosiar
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 #EXTINF: -1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="NASIONAL", MNC
-https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
+https://livetv01.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tuFUh0h-gokL4Xi8SIpwAypv8dY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/a4981b.png" group-title="NASIONAL", RTV
 https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
 #EXTINF: -1 tvg-logo="https://i.ibb.co/tLYQsTm/20200225-091407.png" group-title="NASIONAL", Berita Satu
